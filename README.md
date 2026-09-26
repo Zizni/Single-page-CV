@@ -8,7 +8,7 @@ A clean, single-page CV built with pure HTML (no frameworks or CSS libraries).
 
 ## 📋 About
 
-A short paragraph describing what this project is — e.g. "A responsive, single-page HTML CV showcasing my skills, experience, and contact information. Built with semantic HTML and no external dependencies."
+A short paragraph describing what this project is — e.g. "A responsive, single-page HTML CV showcasing my skills, experience, and contact information. Built with HTML and no external dependencies."
 
 ## ✨ Features
 
@@ -28,7 +28,7 @@ Visit the [live demo](https://github.com/Zizni/Single-page-CV).
 
 ### Run it locally
 ```bash
-git clone https://github.com/Zizni/Single-page-CV.git
+git clone https://github.com/Zizni/Single-page-CV.
 cd repo-name
 open index.html
 ```
